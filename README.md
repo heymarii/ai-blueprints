@@ -29,6 +29,7 @@ Each blueprint here has been **tested in production or personal projects**. I ve
 ### Workflows
 - **[Daily Brief](workflows/daily-brief.md)** — Personalized morning briefing combining news, calendar, and tasks
 - **[Restaurant Manager: Daily Inventory & Waste Report](workflows/restaurant-manager/Blueprint-Restaurant-Manager-Daily-Inventory-Waste-Report.md)** — Automated inventory tracking, waste detection, and reorder suggestions for restaurant managers (~10h/week saved)
+- **[Insurance Claims Adjuster: Daily Claims Triage Report](workflows/insurance-claims-adjuster/Blueprint-Insurance-Claims-Adjuster-Daily-Claims-Triage-Report.md)** — AI-powered claims triage, severity classification, fraud detection, and missing documentation tracking for claims adjusters (~12h/week saved)
 
 ### Experiments
 - **[Code Review Comparison](experiments/2026-03-27-code-review-comparison.md)** — Model comparison for code review quality
@@ -39,4 +40,4 @@ Browse the `prompts/` folder for drop-in templates, `agents/` for full architect
 
 ---
 
-*Updated: March 27, 2026 | Model: Claude Sonnet (primary), GPT-4o (secondary)*
+*Updated: March 27, 2026 | Model: Claude Opus (primary), Claude Sonnet (secondary)*
