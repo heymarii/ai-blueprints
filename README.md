@@ -31,6 +31,7 @@ Each blueprint here has been **tested in production or personal projects**. I ve
 - **[Insurance Claims Adjuster: Daily Claims Triage Report](workflows/insurance-claims-adjuster/Blueprint-Insurance-Claims-Adjuster-Daily-Claims-Triage-Report.md)** — AI-powered claims triage, severity classification, fraud detection, and missing documentation tracking for claims adjusters (~12–15h/week saved)
 - **[Procurement Specialist: Vendor Quote Comparison Report](workflows/procurement-specialist/Blueprint-Procurement-Specialist-Vendor-Quote-Comparison-Report.md)** — Automated vendor quote extraction, normalization, weighted comparison scoring, and PO draft generation for procurement teams (~15–20h/week saved)
 - **[Restaurant Manager: Daily Inventory & Waste Report](workflows/restaurant-manager/Blueprint-Restaurant-Manager-Daily-Inventory-Waste-Report.md)** — Automated inventory tracking, waste detection, and reorder suggestions for restaurant managers (~10h/week saved)
+- **[Sales Rep: Daily Lead Qualification & Follow-Up Report](workflows/sales-rep/Blueprint-Sales-Rep-Daily-Lead-Qualification-Follow-Up-Report.md)** — Automated lead scoring, ICP matching, personalized outreach drafts, and daily prioritized action plans for SDRs and account executives (~10–12h/week saved)
 - **[Teacher: Weekly Student Progress Report](workflows/teacher/Blueprint-Teacher-Weekly-Student-Progress-Report.md)** — Automated student data analysis, individualized progress narratives, priority flagging, and parent email drafts for K-12 teachers (~10-12h/week saved)
 
 ### Experiments
@@ -42,4 +43,4 @@ Browse the `prompts/` folder for drop-in templates, `agents/` for full architect
 
 ---
 
-*Updated: March 29, 2026 | Model: Claude Opus (primary), Claude Sonnet (secondary)*
+*Updated: March 30, 2026 | Model: Claude Opus (primary), Claude Sonnet (secondary)*
