@@ -32,6 +32,7 @@ Each blueprint here has been **tested in production or personal projects**. I ve
 - **[Procurement Specialist: Vendor Quote Comparison Report](workflows/procurement-specialist/Blueprint-Procurement-Specialist-Vendor-Quote-Comparison-Report.md)** — Automated vendor quote extraction, normalization, weighted comparison scoring, and PO draft generation for procurement teams (~15–20h/week saved)
 - **[Restaurant Manager: Daily Inventory & Waste Report](workflows/restaurant-manager/Blueprint-Restaurant-Manager-Daily-Inventory-Waste-Report.md)** — Automated inventory tracking, waste detection, and reorder suggestions for restaurant managers (~10h/week saved)
 - **[Sales Rep: Daily Lead Qualification & Follow-Up Report](workflows/sales-rep/Blueprint-Sales-Rep-Daily-Lead-Qualification-Follow-Up-Report.md)** — Automated lead scoring, ICP matching, personalized outreach drafts, and daily prioritized action plans for SDRs and account executives (~10–12h/week saved)
+- **[Content Creator: Weekly Performance Report & Calendar](workflows/content-creator/Blueprint-Content-Creator-Weekly-Performance-Report-and-Calendar.md)** — Automated cross-platform analytics collection, performance analysis, trend detection, and AI-generated content calendar for social media managers and creators (~10h/week saved)
 - **[Teacher: Weekly Student Progress Report](workflows/teacher/Blueprint-Teacher-Weekly-Student-Progress-Report.md)** — Automated student data analysis, individualized progress narratives, priority flagging, and parent email drafts for K-12 teachers (~10-12h/week saved)
 
 ### Experiments
@@ -43,4 +44,4 @@ Browse the `prompts/` folder for drop-in templates, `agents/` for full architect
 
 ---
 
-*Updated: March 30, 2026 | Model: Claude Opus (primary), Claude Sonnet (secondary)*
+*Updated: March 31, 2026 | Model: Claude Opus (primary), Claude Sonnet (secondary)*
