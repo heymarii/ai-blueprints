@@ -35,6 +35,7 @@ Each blueprint here has been **tested in production or personal projects**. I ve
 - **[Content Creator: Weekly Performance Report & Calendar](workflows/content-creator/Blueprint-Content-Creator-Weekly-Performance-Report-and-Calendar.md)** — Automated cross-platform analytics collection, performance analysis, trend detection, and AI-generated content calendar for social media managers and creators (~10h/week saved)
 - **[Teacher: Weekly Student Progress Report](workflows/teacher/Blueprint-Teacher-Weekly-Student-Progress-Report.md)** — Automated student data analysis, individualized progress narratives, priority flagging, and parent email drafts for K-12 teachers (~10-12h/week saved)
 - **[Product Manager: Weekly Stakeholder Status Report](workflows/product-manager/Blueprint-Product-Manager-Weekly-Stakeholder-Status-Report.md)** — Automated sprint data aggregation, ticket-to-deployment correlation, Slack signal extraction, and AI-generated stakeholder narratives for PMs (~8h/week saved)
+- **[Supply Chain Coordinator: Daily Shipment & Exception Report](workflows/supply-chain-coordinator/Blueprint-Supply-Chain-Coordinator-Daily-Shipment-Exception-Report.md)** — Automated shipment tracking, exception classification, carrier performance scoring, and escalation email drafting for logistics teams (~12–15h/week saved)
 
 ### Experiments
 - **[Code Review Comparison](experiments/2026-03-27-code-review-comparison.md)** — Model comparison for code review quality
@@ -45,4 +46,4 @@ Browse the `prompts/` folder for drop-in templates, `agents/` for full architect
 
 ---
 
-*Updated: April 1, 2026 | Model: Claude Opus (primary), Claude Sonnet (secondary)*
+*Updated: April 6, 2026 | Model: Claude Opus (primary), Claude Sonnet (secondary)*
