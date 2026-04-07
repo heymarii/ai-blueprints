@@ -37,6 +37,7 @@ Each blueprint here has been **tested in production or personal projects**. I ve
 - **[Product Manager: Weekly Stakeholder Status Report](workflows/product-manager/Blueprint-Product-Manager-Weekly-Stakeholder-Status-Report.md)** — Automated sprint data aggregation, ticket-to-deployment correlation, Slack signal extraction, and AI-generated stakeholder narratives for PMs (~8h/week saved)
 - **[Supply Chain Coordinator: Daily Shipment & Exception Report](workflows/supply-chain-coordinator/Blueprint-Supply-Chain-Coordinator-Daily-Shipment-Exception-Report.md)** — Automated shipment tracking, exception classification, carrier performance scoring, and escalation email drafting for logistics teams (~12–15h/week saved)
 - **[Customer Support Manager: Daily Ticket Triage & Escalation Report](workflows/customer-support-manager/Blueprint-Customer-Support-Manager-Daily-Ticket-Triage-Escalation-Report.md)** — AI-powered ticket classification, SLA monitoring, pattern detection, agent performance analysis, and churn risk scoring for support managers (~10h/week saved)
+- **[HR Recruiter: Automated Candidate Screening & Interview Pipeline](workflows/hr-recruiter/Blueprint-HR-Recruiter-Automated-Candidate-Screening-Pipeline.md)** — AI-powered resume screening, candidate scoring, personalized outreach generation, intelligent interview scheduling, and pipeline health monitoring for recruiters (~12h/week saved)
 
 ### Experiments
 - **[Code Review Comparison](experiments/2026-03-27-code-review-comparison.md)** — Model comparison for code review quality
