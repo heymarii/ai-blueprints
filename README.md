@@ -38,6 +38,7 @@ Each blueprint here has been **tested in production or personal projects**. I ve
 - **[Supply Chain Coordinator: Daily Shipment & Exception Report](workflows/supply-chain-coordinator/Blueprint-Supply-Chain-Coordinator-Daily-Shipment-Exception-Report.md)** — Automated shipment tracking, exception classification, carrier performance scoring, and escalation email drafting for logistics teams (~12–15h/week saved)
 - **[Customer Support Manager: Daily Ticket Triage & Escalation Report](workflows/customer-support-manager/Blueprint-Customer-Support-Manager-Daily-Ticket-Triage-Escalation-Report.md)** — AI-powered ticket classification, SLA monitoring, pattern detection, agent performance analysis, and churn risk scoring for support managers (~10h/week saved)
 - **[HR Recruiter: Automated Candidate Screening & Interview Pipeline](workflows/hr-recruiter/Blueprint-HR-Recruiter-Automated-Candidate-Screening-Pipeline.md)** — AI-powered resume screening, candidate scoring, personalized outreach generation, intelligent interview scheduling, and pipeline health monitoring for recruiters (~12h/week saved)
+- **[Executive Assistant: Daily Meeting Prep & Action Item Tracker](workflows/executive-assistant/Blueprint-Executive-Assistant-Daily-Meeting-Prep-Action-Item-Tracker.md)** — Automated meeting context enrichment, daily briefing packet generation, post-meeting action item extraction, recap email drafting, and follow-up scheduling for EAs (~12–15h/week saved)
 
 ### Experiments
 - **[Code Review Comparison](experiments/2026-03-27-code-review-comparison.md)** — Model comparison for code review quality
@@ -48,4 +49,4 @@ Browse the `prompts/` folder for drop-in templates, `agents/` for full architect
 
 ---
 
-*Updated: April 7, 2026 | Model: Claude Opus (primary), Claude Sonnet (secondary)*
+*Updated: April 8, 2026 | Model: Claude Opus (primary), Claude Sonnet (secondary)*
