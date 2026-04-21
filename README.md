@@ -47,7 +47,3 @@ Each blueprint here has been **tested in production or personal projects**. I ve
 ## Quick Start
 
 Browse the `prompts/` folder for drop-in templates, `agents/` for full architecture starters, or `workflows/` for end-to-end automation blueprints organized by role.
-
----
-
-*Updated: April 9, 2026 | Model: Claude Opus (primary), Claude Sonnet (secondary)*
